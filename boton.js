@@ -1,4 +1,3 @@
-// Seleccionar elementos
 const boton = document.getElementById("btnHabilidades");
 const habilidades = document.getElementById("habilidades");
 
